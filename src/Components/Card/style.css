@@ -1,0 +1,30 @@
+.card{
+    border: 2px solid #fff;
+    border-radius: 20px;
+    padding: 1.5rem;
+    height: 10rem;
+}
+
+.bigText{
+    width: 90%;
+    font-size: 3rem;
+    font-weight: 500;
+    color: transparent;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(43,80,170,1) 46%, rgba(218,65,103,1) 100%);
+    -webkit-background-clip: text; /* For Safari */
+    background-clip: text;
+}
+
+.cardHead{
+    font-size: 1rem;
+    color: #fff;
+}
+.cardBody{
+    color:transparent;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,0) 100%);
+    -webkit-background-clip: text; /* For Safari */
+    background-clip: text;
+    font-size: .7rem;
+}
